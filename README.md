@@ -12,7 +12,6 @@ Neste repositório você encontrará projetos acadêmicos, projetos pessoais e e
 
 Busco oportunidades para aprender, crescer profissionalmente e contribuir de forma positiva na área de tecnologia.
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -45,7 +44,7 @@ Busco oportunidades para aprender, crescer profissionalmente e contribuir de for
     align="left" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielntj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielntj07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide=php,scss,hack"
   />
 </p>
 
